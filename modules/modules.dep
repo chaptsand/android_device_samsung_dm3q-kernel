@@ -146,7 +146,6 @@
 /lib/modules/ehset.ko:
 /lib/modules/camcc-kalama.ko: /lib/modules/clk-qcom.ko /lib/modules/gdsc-regulator.ko /lib/modules/proxy-consumer.ko /lib/modules/debug-regulator.ko
 /lib/modules/msm_dma_iommu_mapping.ko:
-/lib/modules/s2dos05-regulator.ko: /lib/modules/pmic_class.ko /lib/modules/debug-regulator.ko /lib/modules/abc.ko /lib/modules/sec_class.ko
 /lib/modules/frpc-adsprpc.ko: /lib/modules/mem_buf_dev.ko /lib/modules/pdr_interface.ko /lib/modules/qcom_ramdump.ko /lib/modules/qmi_helpers.ko /lib/modules/secure_buffer.ko /lib/modules/rproc_qcom_common.ko /lib/modules/qcom_smd.ko /lib/modules/qcom_glink_smem.ko /lib/modules/qcom_glink.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/qcom-scm.ko /lib/modules/minidump.ko /lib/modules/gh_rm_drv.ko /lib/modules/gh_dbl.ko /lib/modules/gh_msgq.ko /lib/modules/gh_arm_drv.ko /lib/modules/socinfo.ko /lib/modules/sec_debug.ko /lib/modules/smem.ko
 /lib/modules/flicker_test.ko: /lib/modules/leds-s2mpb02.ko /lib/modules/mfd_s2mpb02.ko
 /lib/modules/qcom-pon.ko: /lib/modules/reboot-mode.ko
@@ -369,7 +368,6 @@
 /lib/modules/usb_f_ss_acm.ko:
 /lib/modules/sec_debug.ko:
 /lib/modules/sec_thermistor.ko: /lib/modules/hwmon.ko /lib/modules/sec_class.ko
-/lib/modules/uwb.ko: /lib/modules/nfc_sec.ko
 /lib/modules/msm_lmh_dcvs.ko:
 /lib/modules/synx-driver.ko: /lib/modules/qcom_ipc_lite.ko
 /lib/modules/crypto-qti-common.ko: /lib/modules/crypto-qti-hwkm.ko /lib/modules/hwkm.ko /lib/modules/tmecom-intf.ko /lib/modules/qcom-scm.ko

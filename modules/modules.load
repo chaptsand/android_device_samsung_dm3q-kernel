@@ -99,7 +99,6 @@ sec_qc_upload_cause.ko
 sec_upload_cause.ko
 i2c-gpio.ko
 pmic_class.ko
-s2dos05-regulator.ko
 mfd_s2mpb02.ko
 s2mpb02-regulator.ko
 secure_buffer.ko
