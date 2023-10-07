@@ -406,6 +406,9 @@ alias of:N*T*Cqcom,kalama-camcc camcc_kalama
 alias of:N*T*Cqcom,kalama-camccC* camcc_kalama
 alias of:N*T*Cqcom,kalama-camcc-v2 camcc_kalama
 alias of:N*T*Cqcom,kalama-camcc-v2C* camcc_kalama
+alias i2c:cps4038-charger cps4038_charger
+alias of:N*T*Ccps,cps4038-charger cps4038_charger
+alias of:N*T*Ccps,cps4038-chargerC* cps4038_charger
 alias of:N*T*Cqcom,msm-fastrpc-rpmsg frpc_adsprpc
 alias of:N*T*Cqcom,msm-fastrpc-rpmsgC* frpc_adsprpc
 alias of:N*T*Cqcom,pm8916-pon qcom_pon
@@ -435,6 +438,7 @@ alias of:N*T*Cqcom,kalama-gcc gcc_kalama
 alias of:N*T*Cqcom,kalama-gccC* gcc_kalama
 alias of:N*T*Cqcom,kalama-gcc-v2 gcc_kalama
 alias of:N*T*Cqcom,kalama-gcc-v2C* gcc_kalama
+alias i2c:wacom_w90xx wez02
 alias of:N*T*Csamsung,sec-direct-charger sec_direct_charger
 alias of:N*T*Csamsung,sec-direct-chargerC* sec_direct_charger
 alias of:N*T*Cqcom,usb-snps-eusb2-phy phy_msm_snps_eusb2
@@ -460,6 +464,11 @@ alias of:N*T*Cqcom,sfpb-mutex qcom_hwspinlock
 alias of:N*T*Cqcom,sfpb-mutexC* qcom_hwspinlock
 alias of:N*T*Cqcom,tcsr-mutex qcom_hwspinlock
 alias of:N*T*Cqcom,tcsr-mutexC* qcom_hwspinlock
+alias of:N*T*Cvl53l8 stmvl53l8
+alias of:N*T*Cvl53l8C* stmvl53l8
+alias of:N*T*Crange_sensor stmvl53l8
+alias of:N*T*Crange_sensorC* stmvl53l8
+alias spi:range_sensor stmvl53l8
 alias of:N*T*Csamsung,upload_cause sec_upload_cause
 alias of:N*T*Csamsung,upload_causeC* sec_upload_cause
 alias amba:d???[37BF]B968 coresight_tpdm
@@ -720,9 +729,6 @@ alias of:N*T*Cqcom,smmu_sde_nrt_sec msm_drm
 alias of:N*T*Cqcom,smmu_sde_nrt_secC* msm_drm
 alias of:N*T*Cqcom,ufs-phy-qmp-v4-kona phy_qcom_ufs_qmp_v4_kona
 alias of:N*T*Cqcom,ufs-phy-qmp-v4-konaC* phy_qcom_ufs_qmp_v4_kona
-alias i2c:s2miw04-charger s2miw04_charger
-alias of:N*T*Clsi,s2miw04-charger s2miw04_charger
-alias of:N*T*Clsi,s2miw04-chargerC* s2miw04_charger
 alias of:N*T*Csamsung,qcom-debug sec_qc_debug
 alias of:N*T*Csamsung,qcom-debugC* sec_qc_debug
 alias twofish twofish_generic
